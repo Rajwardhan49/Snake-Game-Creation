@@ -1,1 +1,1 @@
-# Snake-Game-Creation
+# Snake-Game-Creation, This project pushed the boundaries of my coding abilities as I grappled with concepts such as collision detection, game mechanics, and user controls. Despite facing setbacks and encountering unforeseen obstacles, I remained undeterred in my pursuit of creating an engaging and responsive Snake game. The end result was a testament to my growth as a programmer, showcasing fluid gameplay and intuitive controls.
